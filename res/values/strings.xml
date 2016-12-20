@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SppTest</string>
+    <string name="btn_connect">connect</string>
+    <string name="btn_disconnect">disconnect</string>
+    <string name="btn_pair">pair</string>
+    <string name="btn_unpair">unpair</string>
+    <string name="btn_start_auto_connect">start auto reconnect</string>
+    <string name="btn_stop_auto_connect">stop auto reconnect</string>
+    <string name="txt_bt_mac">mac</string>
+
+</resources>
